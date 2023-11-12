@@ -15,3 +15,6 @@ Before you begin, make sure you have the following installed on your system:
 
    ```bash
    git clone https://github.com/HunterZ17/Dashtoon_Assignment.git
+   
+2. The following Python packages are required to run the notebook:
+   pytorch and matplotlib
